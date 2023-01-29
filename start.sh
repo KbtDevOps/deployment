@@ -1,0 +1,1 @@
+docker stack deploy --prune --with-registry-auth --resolve-image=always -c docker-compose.yml node
